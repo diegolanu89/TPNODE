@@ -1,0 +1,23 @@
+{
+  "name": "tpnode",
+  "version": "1.0.0",
+  "description": "Ejercicios de Taller de programación",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegolanu89/TPNODE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegolanu89/TPNODE/issues"
+  },
+  "homepage": "https://github.com/diegolanu89/TPNODE#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
